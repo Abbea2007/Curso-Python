@@ -22,3 +22,5 @@ el complex, el bool entre otros
 y si queremos agregar un espacio like Hola Python es "Hola"+ "" + "Pthon"
 """
 print("hola" + " "  + "mundo")
+
+
