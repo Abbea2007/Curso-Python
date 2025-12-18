@@ -16,3 +16,9 @@ print(type(1.12))
 """Los tipos de datos en python son datos ya prederterminados de python, existen varios como el String, el int, el float, el double
 el complex, el bool entre otros
 """
+
+#Este es el ejercicio 6
+"""Lo que hace basicamente este ejercicio es concatenar dos cadenas de texto, para concatenar se utiliza el signo +
+y si queremos agregar un espacio like Hola Python es "Hola"+ "" + "Pthon"
+"""
+print("hola" + " "  + "mundo")
