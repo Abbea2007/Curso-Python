@@ -28,8 +28,18 @@ country, municipio, codigo = "Nicaragua", "Managua", 00
 print("El pais en donde estoy es: ", country, "El municipio dond estoy es: ", municipio, "Y el codigo postal es: ", type(str((codigo))))
 
 """Ahora bien vamos a trabajar con "input", esto lo que hace basicamente es pedir al usuario cosas por ejemplo: """
-
+"""
 departamento = input("Cual es el departamento donde vives: ")
 print("El departamento donde vive el usuario es: ", departamento, len(departamento))
+"""
+"""
+Aqui lo que hicimos es almacenar el valor de dos numero y luego lo sumamaos y lo imprmos con la ariable suma y ya esta
+age = 35
+age2 = 36
+
+suma = age + age2
+
+print(suma)
+"""
 
 
