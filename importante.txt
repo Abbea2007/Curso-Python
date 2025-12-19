@@ -1,0 +1,6 @@
+Funciones importantes hasta ahora
+
+len() este se utiliza para contar el tamaño de una cadena de texto
+not() este es para negar algo
+type() este es para saber que tipo de dato es con el que estamos trabjaando 
+
