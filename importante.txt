@@ -3,4 +3,14 @@ Funciones importantes hasta ahora
 len() este se utiliza para contar el tamaño de una cadena de texto
 not() este es para negar algo
 type() este es para saber que tipo de dato es con el que estamos trabjaando 
+\n Se utiliza para dar un salto de liena en la terminal
+\t se utiliza para dar tabulacion al inicio de cada una de las cadenas de Strings
+f al inicio de imprimir algo se utilizar para internaciaonalizar texto por ejemplo: 
+print(f"Mi nombre es {name} {lastName} y mi edad es {age}")
+append() es para agregar un elemento al final de la una lista
+insert() es para insertar en un lugar especifico de la lista
+pop() es para remover el ultimo elemnto de una lista is like first in first out 
+reverse() es para darle vuelta a una lista
+sort() es para ordenar una lista
+del al inicio es para eleminar un elemtno en espeficido de una lista as such like del mylist[1]
 
